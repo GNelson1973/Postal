@@ -27,4 +27,4 @@ Post.create( content: "My hamster resents me." , user: anton )
 
 Post.create( content: "Free market solves all problems."         , user: frank )
 Post.create( content: "Workers control the means of production." , user: alice )
-Post.create( content: "Can't we all just get along?"             , user: anton )            )
+Post.create( content: "Can't we all just get along?"             , user: anton )
