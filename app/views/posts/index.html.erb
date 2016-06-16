@@ -1,4 +1,5 @@
-<% if user_signed_in? %>
+<% if can? :create, Post %>
+
    <%= render "form" %>
    <br>
 <% end %>
