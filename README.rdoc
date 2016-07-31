@@ -10,7 +10,9 @@ Things you may want to cover:
 * System dependencies
 
 * Configuration
-
+- Devise
+- CanCanCAn
+- Bootstrap
 * Database creation
 
 * Database initialization
